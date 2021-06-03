@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Hân ơiiiiiiiii <3!',
+    introTitle: 'alo lớp trưởng  <3!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'biết là thèm trà sữa mà  <33',
+    title: 'mốt hết dịch nhớ đem cua biển sò nghêu ốc mực bạch tuột vô nha  😙',
+    desc: 'đem càng nhìu càng tốt nha kkkkkkkkk ',
+    btnYes: 'oke bẹn tòn  <33',
     btnNo: 'Không, Anh trai à :3',
-    question:'lâu quá không gặp Hannnnn đi uống trà sữa nha kkk <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'tui biết cậu thèm trà sữa mà 😘😘',
-    messDesc: 'uống trà sữa không cậu',
+    question:'lâu quá không gặp lớp trưởng mà nào vô lai thành phố nhớ đem đồ hải sản vô nha kkk <3',
+    btnReply: 'Gửi cho bẹn tòn  <3',
+    reply: 'ok tui sẽ đem cho bẹn rất nhìu nha <33333333',
+    mess: 'ở nhà vui vẻ nha lớp trưởng 😘😘',
+    messDesc: 'nhớ đem hải sản cho nhìu nha ',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/profile.php?id=100021184031768' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
